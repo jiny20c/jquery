@@ -1,8 +1,6 @@
 define([
 	"./core",
 	"./traversing/var/rneedsContext",
-	"./core/init",
-	"./traversing/findFilter",
 	"./selector"
 ], function( jQuery, rneedsContext ) {
 
